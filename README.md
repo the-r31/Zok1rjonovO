@@ -17,7 +17,7 @@
 
 ### Backend technologies:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=python,django,java,nodejs,express"></a></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=java,nodejs,express"></a></p>
 
 ---
 
