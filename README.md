@@ -17,13 +17,13 @@
 
 ### Backend technologies:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=java,nodejs,express"></a></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=nodejs,express"></a></p>
 
 ---
 
 ### Databases:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"></a></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=postgres,mysql"></a></p>
 
 ---
 
