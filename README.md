@@ -5,7 +5,7 @@
 
 ### About me:
 
-<p>Born in Uzbekistan. I have 1 years of experience in IT, worked at freelance and currently I work at <a href="https://onevizion.com/">OneVizion</a> as a TC engineer.</p>
+<p>Born in Uzbekistan. I have 1 years of experience in IT, worked at freelance</p>
 
 ---
 
