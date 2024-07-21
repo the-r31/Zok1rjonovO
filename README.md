@@ -5,7 +5,7 @@
 
 ### About me:
 
-<p>Born in Uzbekistan. I have 1 years of experience in IT, worked at freelance</p>
+<p>Born in Uzbekistan. I have 3 years of experience in IT, work at freelance</p>
 
 ---
 
