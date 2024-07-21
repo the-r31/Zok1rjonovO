@@ -11,7 +11,7 @@
 
 ### Frontend technologies:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,tailwind,bootstrap"></a></p>
+<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=javascript,typescript,vite,html,css,react,tailwind,bootstrap"></a></p>
 
 ---
 
@@ -24,9 +24,3 @@
 ### Databases:
 
 <p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=postgres,mysql"></a></p>
-
----
-
-### Cloud Services:
-
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=aws,azure,googlecloud"></a></p># Zok1rjonovO
