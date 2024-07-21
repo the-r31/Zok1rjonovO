@@ -11,16 +11,16 @@
 
 ### Frontend technologies:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=javascript,typescript,vite,html,css,react,tailwind,bootstrap"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=javascript,typescript,vite,html,css,react,tailwind,bootstrap"></a></p>
 
 ---
 
 ### Backend technologies:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=nodejs,express"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=nodejs,express"></a></p>
 
 ---
 
 ### Databases:
 
-<p align="left"><a href="https://github.com/Just-Bax"><img src="https://skillicons.dev/icons?i=postgres,mysql"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=postgres,mysql"></a></p>
