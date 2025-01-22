@@ -17,10 +17,10 @@
 
 ### Backend technologies:
 
-<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=nodejs,express"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django"></a></p>
 
 ---
 
 ### Databases:
 
-<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=postgres,mysql"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongo"></a></p>
