@@ -11,7 +11,7 @@
 
 ### Frontend technologies:
 
-<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=javascript,next,typescript,vite,html,css,react,tailwind,bootstrap"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=javascript,typescript,vite,html,css,react,nextjs,tailwind,bootstrap"></a></p>
 
 ---
 
