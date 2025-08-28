@@ -17,7 +17,7 @@
 
 ### Backend technologies:
 
-<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django"></a></p>
+<p align="left"><a href="https://github.com/Zok1jonovO"><img src="https://skillicons.dev/icons?i=nodejs,express"></a></p>
 
 ---
 
